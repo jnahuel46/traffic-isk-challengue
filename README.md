@@ -3,7 +3,7 @@
 ## Clone the repository:
 
 ```bash
-git clone https://github.com/jnahuel46/simulate-traffic
+git clone [https://github.com/jnahuel46/simulate-traffic](https://github.com/jnahuel46/traffic-isk-challengue)](https://github.com/jnahuel46/traffic-isk-challengue)
 ```
 
 2. Navigate to the project directory:
